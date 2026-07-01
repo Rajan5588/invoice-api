@@ -1,0 +1,3 @@
+[php]
+extensions = ["pdo_mysql", "mbstring", "ctype", "fileinfo"]
+
